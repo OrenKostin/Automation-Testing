@@ -1,0 +1,3 @@
+I'm using unittest to automate the login functionality of the Texidium Brand.
+The automoation process will open 3 windows and try to login with invalid credentials.
+The test case will verify that an error message is the displayed.

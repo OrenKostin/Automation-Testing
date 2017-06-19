@@ -1,0 +1,68 @@
+06/19/2017 09:32:02 AM - AssertStatus - INFO - VERIFICATION SUCCESSFUL - Login successful
+06/19/2017 09:32:02 AM - AssertStatus - INFO - test_invalid_login :: TEST PASSED
+06/19/2017 09:32:11 AM - AssertStatus - INFO - VERIFICATION SUCCESSFUL - Login successful
+06/19/2017 09:32:11 AM - AssertStatus - INFO - test_invalid_login :: TEST PASSED
+06/19/2017 09:32:20 AM - AssertStatus - INFO - VERIFICATION SUCCESSFUL - Login successful
+06/19/2017 09:32:20 AM - AssertStatus - INFO - test_invalid_login :: TEST PASSED
+06/19/2017 09:32:31 AM - AssertStatus - INFO - VERIFICATION SUCCESSFUL - Login successful
+06/19/2017 09:32:31 AM - AssertStatus - INFO - test_invalid_login :: TEST PASSED
+06/19/2017 09:32:35 AM - AssertStatus - INFO - VERIFICATION SUCCESSFUL - Login failed
+06/19/2017 09:32:35 AM - AssertStatus - INFO - test_valid_login :: TEST PASSED
+O - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:31:58 AM - Login - INFO - Success - Element found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:31:58 AM - Login - INFO - Success - Hovered over Element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:31:58 AM - Login - INFO - Success - Element found with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:31:59 AM - Login - INFO - Success - Clicked on element with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:02 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:02 AM - Login - INFO - Failure - Cannot click on element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:02 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_email
+06/19/2017 09:32:02 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_email
+06/19/2017 09:32:02 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_password
+06/19/2017 09:32:02 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_password
+06/19/2017 09:32:02 AM - Login - INFO - Success - Element found with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:02 AM - Login - INFO - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:05 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:05 AM - Login - ERROR - Failure - Cannot Hover over Element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:08 AM - Login - INFO - Failure - Element not found with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:08 AM - Login - INFO - Failure - Cannot click on element with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:11 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:11 AM - Login - INFO - Failure - Cannot click on element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:11 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_email
+06/19/2017 09:32:11 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_email
+06/19/2017 09:32:11 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_password
+06/19/2017 09:32:11 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_password
+06/19/2017 09:32:11 AM - Login - INFO - Success - Element found with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:11 AM - Login - INFO - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:14 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:14 AM - Login - ERROR - Failure - Cannot Hover over Element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:17 AM - Login - INFO - Failure - Element not found with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:17 AM - Login - INFO - Failure - Cannot click on element with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:20 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:20 AM - Login - INFO - Failure - Cannot click on element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:20 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_email
+06/19/2017 09:32:20 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_email
+06/19/2017 09:32:20 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_password
+06/19/2017 09:32:20 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_password
+06/19/2017 09:32:20 AM - Login - INFO - Success - Element found with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:20 AM - Login - INFO - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:24 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:24 AM - Login - ERROR - Failure - Cannot Hover over Element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:27 AM - Login - INFO - Failure - Element not found with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:27 AM - Login - INFO - Failure - Cannot click on element with locator-type: xpath, and locator: //a[@id='nav-item-signout']//span[text()='Not oren? Sign Out']
+06/19/2017 09:32:30 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:30 AM - Login - INFO - Failure - Cannot click on element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:30 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_email
+06/19/2017 09:32:30 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_email
+06/19/2017 09:32:30 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_password
+06/19/2017 09:32:30 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_password
+06/19/2017 09:32:30 AM - Login - INFO - Success - Element found with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:30 AM - Login - INFO - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:34 AM - Login - INFO - Failure - Element not found with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:34 AM - Login - INFO - Failure - Cannot click on element with locator-type: id, and locator: nav-link-yourAccount
+06/19/2017 09:32:34 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_email
+06/19/2017 09:32:34 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_email
+06/19/2017 09:32:34 AM - Login - INFO - Success - Element found with locator-type: id, and locator: ap_password
+06/19/2017 09:32:34 AM - Login - INFO - Success - Sent data to element with locator-type: id, and locator: ap_password
+06/19/2017 09:32:34 AM - Login - INFO - Success - Element found with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:35 AM - Login - INFO - Success - Clicked on element with locator-type: id, and locator: signInSubmit
+06/19/2017 09:32:35 AM - Login - INFO - Element with locator-type: xpath, and locator: //a[@id='nav-link-yourAccount']/span[text()='Hello, oren'] is not none

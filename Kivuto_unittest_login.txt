@@ -1,5 +1,0 @@
-I'm using Selenium Webdriver and unittest to automate the login functionality of the Texidium Brand.
-The automoation process opens 3 browser tabs, and try to login with invalid credentials.
-The test case verifies that an error message is displayed.
-
-To see the script, choose kivuto_solutions_login.py and click on it.

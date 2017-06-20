@@ -1,0 +1,4 @@
+I'm using Page Object Model design pattern to create Object Repository for the web UI elements. 
+For each web page in the application, there is a corresponding page class. 
+The Page class will find the WebElements of that web page.
+It contains page methods which perform operations on those WebElements. 

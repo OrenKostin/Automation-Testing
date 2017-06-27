@@ -1,0 +1,62 @@
+06/27/2017 09:28:25 AM - AssertStatus - [INFO] VERIFICATION SUCCESSFUL
+06/27/2017 09:28:25 AM - AssertStatus - [INFO] test_my_trips_feature :: TEST PASSED
+ appeared on screen
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //div[@id='taplc_trip_search_home_default_0']//input[@placeholder='City or hotel name']
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - Sent data to element with locator-type: xpath, and locator: //div[@id='taplc_trip_search_home_default_0']//input[@placeholder='City or hotel name']
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: (//div[@id='taplc_trip_search_home_default_0']//span[@class='picker-inner'])[1]
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: (//div[@id='taplc_trip_search_home_default_0']//span[@class='picker-inner'])[1]
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - elements found
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - elements found
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - element found with locator-type: id, and locator: SUBMIT_HOTELS
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: id, and locator: SUBMIT_HOTELS
+06/27/2017 09:28:10 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:12 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:12 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //div[@id='HOTELS_LEFT_FILTERS']//div[contains(text(),'Hotel class')]
+06/27/2017 09:28:12 AM - MyTrips - [INFO] Scrolled up
+06/27/2017 09:28:12 AM - MyTrips - [INFO] Success - scrolled element into view
+06/27/2017 09:28:13 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:13 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:13 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //div[@id='jfy_filter_bar_hotel_class']//label[@for='jfy_filter_s_10']
+06/27/2017 09:28:13 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //div[@id='jfy_filter_bar_hotel_class']//label[@for='jfy_filter_s_10']
+06/27/2017 09:28:14 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:14 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: (//div[@id='taplc_hsx_hd_hotels_list_0']//span[contains(@class,'heart')])[1]
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Scrolled up
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Success - scrolled element into view
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Success - Scrolled first heart into view
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Success - elements found
+06/27/2017 09:28:15 AM - MyTrips - [INFO] Success - clicked on a heart icon
+06/27/2017 09:28:16 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:16 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:16 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//input[@placeholder='Name your trip']
+06/27/2017 09:28:16 AM - MyTrips - [INFO] Success - Sent data to element with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//input[@placeholder='Name your trip']
+06/27/2017 09:28:17 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:17 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:17 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Create']
+06/27/2017 09:28:17 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Create']
+06/27/2017 09:28:18 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:18 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:18 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Continue browsing']
+06/27/2017 09:28:18 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Continue browsing']
+06/27/2017 09:28:19 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:19 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:19 AM - MyTrips - [INFO] Success - elements found
+06/27/2017 09:28:19 AM - MyTrips - [INFO] Success - elements found
+06/27/2017 09:28:19 AM - MyTrips - [INFO] Success - clicked on a heart icon
+06/27/2017 09:28:20 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:20 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:20 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: .//body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Save']
+06/27/2017 09:28:20 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: .//body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Save']
+06/27/2017 09:28:21 AM - MyTrips - [INFO] Waiting for maximum :: 30 :: seconds for element to be clickable
+06/27/2017 09:28:21 AM - MyTrips - [INFO] Element appeared on screen
+06/27/2017 09:28:21 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Continue browsing']
+06/27/2017 09:28:21 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //body[@id='BODY_BLOCK_JQUERY_REFLOW']//span[text()='Continue browsing']
+06/27/2017 09:28:22 AM - MyTrips - [INFO] Scrolled up
+06/27/2017 09:28:23 AM - MyTrips - [INFO] Success - Element displayed with locator-type: xpath, and locator: //div[@id='taplc_global_nav_action_trips_0']
+06/27/2017 09:28:23 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //div[@id='taplc_global_nav_action_trips_0']
+06/27/2017 09:28:23 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //div[@id='taplc_global_nav_action_trips_0']
+06/27/2017 09:28:24 AM - MyTrips - [INFO] Success - element found with locator-type: xpath, and locator: //div[@id='trips-tiles']//a[contains(@class,'has-cover-photo')]
+06/27/2017 09:28:24 AM - MyTrips - [INFO] Success - Clicked on element with locator-type: xpath, and locator: //div[@id='trips-tiles']//a[contains(@class,'has-cover-photo')]
+06/27/2017 09:28:25 AM - MyTrips - [INFO] Success - elements found

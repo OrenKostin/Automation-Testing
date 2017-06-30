@@ -9,4 +9,4 @@ I created 2 page classes:
 
 I created the scripts using Data-driven Testing (DDT).
 The test data is read from data files (CSV files), instead of using the same hard-coded values each time the test runs. 
-DDt gives more flexibility, by testing how the application handles various inputs effectively. 
+DDT gives more flexibility, by testing how the application handles various inputs effectively. 
